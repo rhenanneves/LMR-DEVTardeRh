@@ -1,0 +1,22 @@
+body {
+
+    background: rgb(122, 122, 122);
+}
+
+#menu {
+    width: 100%;
+    height: 60px;
+    background-color: rgb(255, 0, 0);
+}
+
+#menu img {
+    height: 60px;
+    margin-left: 10px;
+}
+
+.linkMenu {
+    color: aliceblue;
+    font-size: 2em;
+    margin-left: 20px;
+    margin-right: 20px;
+}
